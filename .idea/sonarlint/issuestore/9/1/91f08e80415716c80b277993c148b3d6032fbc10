@@ -1,0 +1,26 @@
+
+W
+java:S1141'"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ØÃ¯»Ô1
+7
+java:S1220""Move this file to a named package.8ÚÃ¯»Ô1
+L	java:S106"+Replace this use of System.out by a logger.(”±ÇÑÿÿÿÿÿ8·Å¯»Ô1
+G	java:S106"+Replace this use of System.out by a logger.(æ‘Î8¸Å¯»Ô1
+L	java:S106!"+Replace this use of System.out by a logger.( ½ÙÈüÿÿÿÿ8¸Å¯»Ô1
+G	java:S106."+Replace this use of System.out by a logger.(Ê¢êµ8¹Å¯»Ô1
+G	java:S1068"+Replace this use of System.out by a logger.(ÙÔÁ¢8ºÅ¯»Ô1
+G	java:S106@"+Replace this use of System.out by a logger.(›áƒ×8ºÅ¯»Ô1
+F	java:S106I"+Replace this use of System.out by a logger.(µÎ8»Å¯»Ô1
+F	java:S106P"+Replace this use of System.out by a logger.(ê¦ĞG8»Å¯»Ô1
+L	java:S106Z"+Replace this use of System.out by a logger.(†úÏ‰ùÿÿÿÿ8¼Å¯»Ô1
+L	java:S106_"+Replace this use of System.out by a logger.(ï¨ …úÿÿÿÿ8¼Å¯»Ô1
+G	java:S106f"+Replace this use of System.out by a logger.(üÂ·Â8¼Å¯»Ô1
+F	java:S106o"+Replace this use of System.out by a logger.(ÒÊT8¼Å¯»Ô1
+z	java:S131q"YComplete cases by adding the missing enum constants or add a default case to this switch.(»Ï£éúÿÿÿÿ8½Å¯»Ô1
+G	java:S106|"+Replace this use of System.out by a logger.(¬Ö¨Ë8½Å¯»Ô1
+H	java:S106€"+Replace this use of System.out by a logger.(ìÓÊ´8¾Å¯»Ô1
+H	java:S106"+Replace this use of System.out by a logger.(·Ø¥Á8¾Å¯»Ô1
+H	java:S106–"+Replace this use of System.out by a logger.(¸èØŞ8¿Å¯»Ô1
+H	java:S106¥"+Replace this use of System.out by a logger.(·Ø¥Á8¿Å¯»Ô1
+M	java:S106¯"+Replace this use of System.out by a logger.(á¨Âÿÿÿÿÿ8ÁÅ¯»Ô1
+Z
+java:S1172´"7Remove this unused method parameter "depositSupported".(Ş›Ôˆşÿÿÿÿ8ÁÅ¯»Ô1
